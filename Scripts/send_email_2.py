@@ -6,8 +6,8 @@ import mimetypes
 from email.message import EmailMessage
 from email.policy import SMTP
 
-SMTP_USER= os.environ.get('GMAIL_USER') or "weishenwong80@gmail.com"
-SMTP_PASSWORD= os.environ.get('GMAIL_APP_PASSWORD')
+SMTP_USER= "weishenwong80@gmail.com"
+SMTP_PASSWORD= "kvow sfaw zrhn qxxw"
 secure_context=ssl.create_default_context()
 
 if not SMTP_PASSWORD:
