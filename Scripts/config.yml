@@ -1,7 +1,7 @@
 database:
   server: brownwong.database.windows.net
   port: 1433
-  name: "Brown Wong"
+  name: "MyAIProject"
   username: "weishenwong80"
   password: "xiaLAN1980"
   driver: "ODBC Driver 18 for SQL Server"
